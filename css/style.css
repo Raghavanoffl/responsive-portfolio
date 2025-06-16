@@ -597,8 +597,8 @@ img{
 .home-section .home-text, 
 .home-section .home-image{
     flex: 0 0 50%;
-    max-height: 50%;
-    padding: 0 15px;
+    max-height: 90%;
+    padding: 0 20px;
 }
 
 .home-section .home-text p{
@@ -626,11 +626,11 @@ img{
 }
 
 .home-section .home-image .img-box{
-    max-width: 450px;
+    max-width: 500px;
     display: block;
     margin: auto;
-    border-radius: 50%;
-    padding: 15px;
+    border-radius: 70%;
+    padding: 20px;
 }
 .home-section .home-image .img-box img{
     width: 100%;

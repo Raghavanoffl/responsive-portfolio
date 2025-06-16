@@ -13,7 +13,7 @@
     }
 }
 
-@media(max-width: 767px){
+@media(max-width: 400px){
     .portfolio-section .portfolio-item,
     .about-section .skills .skill-item,
     .service-section .service-item,
@@ -25,7 +25,7 @@
     .home-section .home-text,
     .portfolio-popup .info{
         flex: 0 0 100%;
-        max-width: 100%;
+        max-width: 80%;
     }
 
     .service-section .service-item-inner:hover h3, p {
